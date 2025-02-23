@@ -1,5 +1,5 @@
 # RestAPIBasics
-Create a simple REST API with GET &amp; POST routes. 
+Create a REST API with GET &amp; POST , PUT , DELETE routes. 
 
 
 Tech Stack : Node, Express
@@ -17,13 +17,13 @@ curl http://localhost:3005/users
 
 
 🔄 Modifications:
-# Logging Middleware: Log incoming requests.
+Logging Middleware: Log incoming requests.
 
-# Validation Middleware: Ensure request body has necessary fields.
+Validation Middleware: Ensure request body has necessary fields.
 
-# Update & Delete Users: Add PUT & DELETE routes.
+Update & Delete Users: Add PUT & DELETE routes.
 
-# Persist Data: Save users to a file.
+Persist Data: Save users to a file.
 
 
 
